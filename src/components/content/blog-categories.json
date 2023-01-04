@@ -1,12 +1,14 @@
 {
   "collectionName": "components_content_blog_categories",
   "info": {
-    "displayName": "Blog Categories"
+    "displayName": "Blog Categories",
+    "description": ""
   },
   "options": {},
   "attributes": {
-    "Title": {
-      "type": "string"
+    "title": {
+      "type": "string",
+      "unique": true
     }
   }
 }

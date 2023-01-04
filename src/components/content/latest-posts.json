@@ -1,11 +1,12 @@
 {
   "collectionName": "components_content_latest_posts",
   "info": {
-    "displayName": "Latest Posts"
+    "displayName": "Latest Posts",
+    "description": ""
   },
   "options": {},
   "attributes": {
-    "Title": {
+    "title": {
       "type": "string"
     }
   }
